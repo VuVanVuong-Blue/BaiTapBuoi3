@@ -1,0 +1,10 @@
+C:\Users\seven\source\repos\BaitapvenhaBUOI3\BaitapvenhaBUOI3\bin\Debug\BaitapvenhaBUOI3.exe.config
+C:\Users\seven\source\repos\BaitapvenhaBUOI3\BaitapvenhaBUOI3\bin\Debug\BaitapvenhaBUOI3.exe
+C:\Users\seven\source\repos\BaitapvenhaBUOI3\BaitapvenhaBUOI3\bin\Debug\BaitapvenhaBUOI3.pdb
+C:\Users\seven\source\repos\BaitapvenhaBUOI3\BaitapvenhaBUOI3\obj\Debug\BaitapvenhaBUOI3.csproj.AssemblyReference.cache
+C:\Users\seven\source\repos\BaitapvenhaBUOI3\BaitapvenhaBUOI3\obj\Debug\BaitapvenhaBUOI3.Form1.resources
+C:\Users\seven\source\repos\BaitapvenhaBUOI3\BaitapvenhaBUOI3\obj\Debug\BaitapvenhaBUOI3.Properties.Resources.resources
+C:\Users\seven\source\repos\BaitapvenhaBUOI3\BaitapvenhaBUOI3\obj\Debug\BaitapvenhaBUOI3.csproj.GenerateResource.cache
+C:\Users\seven\source\repos\BaitapvenhaBUOI3\BaitapvenhaBUOI3\obj\Debug\BaitapvenhaBUOI3.csproj.CoreCompileInputs.cache
+C:\Users\seven\source\repos\BaitapvenhaBUOI3\BaitapvenhaBUOI3\obj\Debug\BaitapvenhaBUOI3.exe
+C:\Users\seven\source\repos\BaitapvenhaBUOI3\BaitapvenhaBUOI3\obj\Debug\BaitapvenhaBUOI3.pdb
